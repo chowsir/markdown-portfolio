@@ -1,1 +1,1 @@
-[Chowsir's Wordpress] (https://itschowsir.com)
+[Chowsir] (https://itschowsir.com)
