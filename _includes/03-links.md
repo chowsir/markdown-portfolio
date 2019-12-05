@@ -1,1 +1,1 @@
-([Github] (https:chowsir.github.io))
+[Github] (https://chowsir.github.io)
